@@ -1,0 +1,7 @@
+{
+  "id": "geojson-loader",
+  "name": "GeoJSON Loader",
+  "version": "0.1.0",
+  "apiVersion": "0.1.0",
+  "entry": "./index.ts"
+}

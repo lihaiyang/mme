@@ -1,0 +1,7 @@
+{
+  "id": "edit",
+  "name": "Edit",
+  "version": "0.1.0",
+  "apiVersion": "0.1.0",
+  "entry": "./index.ts"
+}
